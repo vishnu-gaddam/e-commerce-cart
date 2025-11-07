@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: (process.env.REACT_APP_API_URL || "http://localhost:5000") + "/api"
+  baseURL: (process.env.REACT_APP_API_URL || "https://e-commerce-cart-e93c.onrender.com") + "/api"
 });
 
 export const fetchProducts = () => API.get('/products');
