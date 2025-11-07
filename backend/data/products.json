@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Sony WH-1000XM5 Wireless Headphones", "price": 349.99 },
+  { "id": 2, "name": "Apple Watch Series 9 (GPS, 45mm)", "price": 429.00 },
+  { "id": 3, "name": "Dell XPS 13 Laptop (i7, 16GB RAM)", "price": 1299.99 },
+  { "id": 4, "name": "Logitech MX Mechanical Keyboard", "price": 149.99 },
+  { "id": 5, "name": "Canon EOS R50 Mirrorless Camera", "price": 679.00 },
+  { "id": 6, "name": "Anker 737 Power Bank (24,000mAh)", "price": 149.99 },
+  { "id": 7, "name": "Samsung 34\" Ultrawide Monitor", "price": 599.99 },
+  { "id": 8, "name": "Bose QuietComfort Earbuds II", "price": 279.00 },
+  { "id": 9, "name": "Nintendo Switch OLED Model", "price": 349.99 },
+  { "id": 10, "name": "Dyson V15 Detect Cordless Vacuum", "price": 749.99 },
+  { "id": 11, "name": "Apple AirPods Pro (2nd Gen)", "price": 249.00 },
+  { "id": 12, "name": "Razer BlackShark V2 Pro Gaming Headset", "price": 179.99 },
+  { "id": 13, "name": "GoPro HERO12 Black", "price": 399.99 },
+  { "id": 14, "name": "Tile Pro (2024) Bluetooth Tracker 2-Pack", "price": 49.99 },
+  { "id": 15, "name": "Satechi USB-C Hub for MacBook", "price": 89.99 }
+]
